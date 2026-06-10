@@ -1,0 +1,6 @@
+{
+  "name": "指数实盘模拟",
+  "description": "上传指数持仓权重，分析资产配置，进行组合模拟与趋势追踪。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
